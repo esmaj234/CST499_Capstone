@@ -1,0 +1,42 @@
+[
+	{
+		"file": "/Users/erinsmajdek/Documents/Unreal Projects/CST499_Capstone/Source/CST499_Capstone/CST499_Capstone.Build.cs",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/erinsmajdek/Documents/Unreal Projects/CST499_Capstone/.vscode/compileCommands_CST499_Capstone/CST499_Capstone.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.4/Engine/Source"
+	},
+	{
+		"file": "/Users/erinsmajdek/Documents/Unreal Projects/CST499_Capstone/Source/CST499_Capstone/CST499_Capstone.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/erinsmajdek/Documents/Unreal Projects/CST499_Capstone/.vscode/compileCommands_CST499_Capstone/CST499_Capstone.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.4/Engine/Source"
+	},
+	{
+		"file": "/Users/erinsmajdek/Documents/Unreal Projects/CST499_Capstone/Source/CST499_Capstone/CST499_Capstone.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/erinsmajdek/Documents/Unreal Projects/CST499_Capstone/.vscode/compileCommands_CST499_Capstone/CST499_Capstone.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.4/Engine/Source"
+	},
+	{
+		"file": "/Users/erinsmajdek/Documents/Unreal Projects/CST499_Capstone/Source/CST499_Capstone/Private/OpenAIConnector.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/erinsmajdek/Documents/Unreal Projects/CST499_Capstone/.vscode/compileCommands_CST499_Capstone/CST499_Capstone.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.4/Engine/Source"
+	},
+	{
+		"file": "/Users/erinsmajdek/Documents/Unreal Projects/CST499_Capstone/Source/CST499_Capstone/Public/OpenAIConnector.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/erinsmajdek/Documents/Unreal Projects/CST499_Capstone/.vscode/compileCommands_CST499_Capstone/CST499_Capstone.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.4/Engine/Source"
+	}
+]
